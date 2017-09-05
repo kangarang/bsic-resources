@@ -71,7 +71,7 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 
 ## Dev Tools
 
-[Ethereum Web3 JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+[Ethereum Web3 JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) - The API used by web applications to access the Ethereum blockchain.
 
 [Remix - Solidity IDE](https://remix.ethereum.org)
 
@@ -79,17 +79,17 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 
 [web3.js](https://github.com/ethereum/web3.js)
 
-[testrpc](https://github.com/ethereumjs/testrpc)
+[testrpc](https://github.com/ethereumjs/testrpc) - A simulated blockchain for fast testing and iteration.
 
-[truffle](https://github.com/trufflesuite/truffle)
+[truffle](https://github.com/trufflesuite/truffle) - A development environment, testing framework, and asset pipeline for Ethereum.
 
-[INFURA](https://infura.io/)
+[INFURA](https://infura.io/) - Provider of remote Ethereum and IPFS nodes.
 
 [embark-framework](https://github.com/iurimatias/embark-framework)
 
 [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)
 
-[MetaMask](https://metamask.io/)
+[MetaMask](https://metamask.io/) - A Chrome browser extension that manages keys and enables web-applications to interact with any ethereum blockchain network.
 
 [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens)
 
@@ -103,6 +103,9 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 
 [bn.js](https://github.com/indutny/bn.js)
 
+[Lightwallet](https://github.com/ConsenSys/eth-lightwallet) - One implementation of an Ethereum JavaScript wallet.
+
+[ethereumjs-wallet](https://github.com/ethereumjs/ethereumjs-wallet) - Another alternate implementation of an Ethereum wallet.
 
 ---
 
