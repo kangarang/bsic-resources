@@ -51,6 +51,31 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 
 ---
 
+## Topics
+
+### Financial Inclusion
+- [Blockchain and Financial Inclusion: From the Last Mile to the Last Meter - George Samman](http://sammantics.com/blog/2015/11/16/blockchain-and-the-big-financial-inclusion-opportunity)
+- [Georgetown White Paper on Blockchain and Financial Inclusion](http://finpolicy.georgetown.edu/newsroom/news/center-releases-white-paper-blockchain-and-financial-inclusion)
+- [The Future of Financial Infrastructure: An Ambitious Look at How Blockchain Can Reshape Financial Services - WEF](https://www.weforum.org/reports/the-future-of-financial-infrastructure-an-ambitious-look-at-how-blockchain-can-reshape-financial-services)
+
+### Supply Chain
+- [The Supply Circle: How Blockchain Technology Disintermediates the Supply Chain - Rebecca Migirov](https://media.consensys.net/the-supply-circle-how-blockchain-technology-disintermediates-the-supply-chain-6a19f61f8f35Global) 
+- [Supply Chains Are About to Get Better, Thanks to Blockchain - Michael Casey and Pindar Wong](https://hbr.org/2017/03/global-supply-chains-are-about-to-get-better-thanks-to-blockchain)
+- [Blockchain has the Potential to Revolutionize the Supply Chain - Ben Dickson](https://techcrunch.com/2016/11/24/blockchain-has-the-potential-to-revolutionize-the-supply-chain/)
+
+### Identity & Vulnerable Peoples
+- [Disruptive innovation in financial services: A blueprint for digital Identity - WEF](https://www.weforum.org/reports/disruptive-innovation-in-financial-services-a-blueprint-for-digital)
+- [The Path to Self-Sovereign Identity - Christopher Allen](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
+- [Putting “identity” on the “blockchain” 6-part blog posts - David Birch](http://www.chyp.com/putting-identity-on-the-blockchain-part-1-find-a-problem/)
+
+### Energy & Environment
+- [Blockchain in the Energy Sector: Institutional Disruption - Marius Buchmann](http://www.theenergycollective.com/enerquire/2402120/blockchain-energy-sector-institutional-disruption)
+- [How Utilities Are Using Blockchain to Modernize the Grid - James Basden and Michael Cottrell](https://hbr.org/2017/03/how-utilities-are-using-blockchain-to-modernize-the-grid)
+- [Blockchain - An Opportunity for Energy Producers and Consumers? - PwC](https://www.pwc.com/gx/en/industries/energy-utilities-mining/power-utilities/publications/opportunity-for-energy-producers.html)
+- [Blockchain Applications in Energy Trading - Deloitte](https://www2.deloitte.com/uk/en/pages/energy-and-resources/articles/blockchain-applications-in-energy-trading.html)
+
+---
+
 ## Ethereum Technicals
 
 [Subtleties, ethereum wiki](https://github.com/ethereum/wiki/wiki/Subtleties)
@@ -120,31 +145,6 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 [karl.tech DApp Tutorials](https://karl.tech/)
 
 [A simple smart contract Web UI using web3.js](http://hypernephelist.com/2016/06/21/a-simple-smart-contract-ui-web3.html)
-
----
-
-## Topics
-
-### Financial Inclusion
-- [Blockchain and Financial Inclusion: From the Last Mile to the Last Meter - George Samman](http://sammantics.com/blog/2015/11/16/blockchain-and-the-big-financial-inclusion-opportunity)
-- [Georgetown White Paper on Blockchain and Financial Inclusion](http://finpolicy.georgetown.edu/newsroom/news/center-releases-white-paper-blockchain-and-financial-inclusion)
-- [The Future of Financial Infrastructure: An Ambitious Look at How Blockchain Can Reshape Financial Services - WEF](https://www.weforum.org/reports/the-future-of-financial-infrastructure-an-ambitious-look-at-how-blockchain-can-reshape-financial-services)
-
-### Supply Chain
-- [The Supply Circle: How Blockchain Technology Disintermediates the Supply Chain - Rebecca Migirov](https://media.consensys.net/the-supply-circle-how-blockchain-technology-disintermediates-the-supply-chain-6a19f61f8f35Global) 
-- [Supply Chains Are About to Get Better, Thanks to Blockchain - Michael Casey and Pindar Wong](https://hbr.org/2017/03/global-supply-chains-are-about-to-get-better-thanks-to-blockchain)
-- [Blockchain has the Potential to Revolutionize the Supply Chain - Ben Dickson](https://techcrunch.com/2016/11/24/blockchain-has-the-potential-to-revolutionize-the-supply-chain/)
-
-### Identity & Vulnerable Peoples
-- [Disruptive innovation in financial services: A blueprint for digital Identity - WEF](https://www.weforum.org/reports/disruptive-innovation-in-financial-services-a-blueprint-for-digital)
-- [The Path to Self-Sovereign Identity - Christopher Allen](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
-- [Putting “identity” on the “blockchain” 6-part blog posts - David Birch](http://www.chyp.com/putting-identity-on-the-blockchain-part-1-find-a-problem/)
-
-### Energy & Environment
-- [Blockchain in the Energy Sector: Institutional Disruption - Marius Buchmann](http://www.theenergycollective.com/enerquire/2402120/blockchain-energy-sector-institutional-disruption)
-- [How Utilities Are Using Blockchain to Modernize the Grid - James Basden and Michael Cottrell](https://hbr.org/2017/03/how-utilities-are-using-blockchain-to-modernize-the-grid)
-- [Blockchain - An Opportunity for Energy Producers and Consumers? - PwC](https://www.pwc.com/gx/en/industries/energy-utilities-mining/power-utilities/publications/opportunity-for-energy-producers.html)
-- [Blockchain Applications in Energy Trading - Deloitte](https://www2.deloitte.com/uk/en/pages/energy-and-resources/articles/blockchain-applications-in-energy-trading.html)
 
 ---
 
