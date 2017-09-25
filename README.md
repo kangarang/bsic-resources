@@ -17,6 +17,8 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 
 [Disrupting the Trust Business, The Economist](https://medium.com/r/?url=https%3A%2F%2Fwww.economist.com%2Fnews%2Fworld-if%2F21724906-trust-business-little-noticed-huge-startups-deploying-blockchain-technology-threaten)
 
+[How Bitcoin Works!, M. Goldin](https://1drv.ms/p/s!ApcwlR1re86UgXHLHjQ_MZtk8Us5)
+
 ---
 
 ## Ethereum
@@ -48,6 +50,10 @@ This is an open source resource hub for the **BSIC Decentralized Impact Accelera
 [An Introduction to IPFS, Dr. C. Lundkvist & J. Lilic](https://medium.com/@ConsenSys/an-introduction-to-ipfs-9bba4860abd0)
 
 [MyEtherWallet - ALWAYS ALWAYS CHECK THE URL AND CERTIFICATE](https://www.myetherwallet.com/)
+
+[Ethereum Gitter](https://gitter.im/ethereum/home)
+
+[How to Learn Solidity, Blockgeeks](https://blockgeeks.com/guides/how-to-learn-solidity/)
 
 ---
 
